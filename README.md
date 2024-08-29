@@ -1,3 +1,4 @@
 # -Data-Science
-| Название проекта | Описание проекта |
-| fjfjjfjff | ffjjfjfjf |
+| Attempt | #1    | #2    |
+| :---:   | :---: | :---: |
+| Seconds | 301   | 283   |
